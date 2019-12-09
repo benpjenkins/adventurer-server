@@ -1,0 +1,15 @@
+{
+  "name": "adventurer-server",
+  "version": "1.0.0",
+  "description": "express server for adventurer",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben jenkins",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
